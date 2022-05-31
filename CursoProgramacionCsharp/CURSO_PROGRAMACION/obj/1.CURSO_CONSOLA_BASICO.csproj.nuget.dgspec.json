@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\source\\repos\\CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj": {}
+    "C:\\Users\\diego\\source\\repos\\2.CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\source\\repos\\CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj": {
+    "C:\\Users\\diego\\source\\repos\\2.CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj",
+        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\2.CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj",
         "projectName": "1.CURSO_CONSOLA_BASICO",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj",
+        "projectPath": "C:\\Users\\diego\\source\\repos\\2.CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\obj\\",
+        "outputPath": "C:\\Users\\diego\\source\\repos\\2.CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

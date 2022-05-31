@@ -446,7 +446,20 @@ namespace CURSO_PROGRAMACION
             //Console.ReadLine(); 
             #endregion
 
-            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Ingrese el primer numero ");
+            int NumUno = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el segundo numero ");
+            int NumDos = int.Parse(Console.ReadLine());
+            if (NumUno == NumDos & NumDos == NumUno)
+            {
+                Console.WriteLine("Los Numeros son iguales ");
+            }else if(NumUno <= NumDos)
+            {
+                Console.WriteLine("El Numero Dos es Mayor ");
+            }else{
+                Console.WriteLine("El Numero Uno es Mayor ");
+            }
             Console.ReadLine();
 
         }
