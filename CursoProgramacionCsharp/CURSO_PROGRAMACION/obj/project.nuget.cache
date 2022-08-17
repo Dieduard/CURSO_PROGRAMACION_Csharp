@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kjezIDczJYv1XaG8/4LRuaR2FH+ms3SzYiqeIsbJD1GTLfsJwiANn8K8JNH0zeadsCDTngF/UNuRLZHcjrTQLA==",
+  "dgSpecHash": "3qN/m11OT+GzDMt3wwRedhh3z/hS1N56W4PxnUghoOGjEoIL1EDmjQT80fZXQZh7/oTB5Rf/ggZUt0n/MjOaSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\source\\repos\\2.CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj",
+  "projectFilePath": "C:\\Users\\diego\\source\\repos\\2.CURSO_PROGRAMACION_CSHARP\\CursoProgramacionCsharp\\CURSO_PROGRAMACION\\1.CURSO_CONSOLA_BASICO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

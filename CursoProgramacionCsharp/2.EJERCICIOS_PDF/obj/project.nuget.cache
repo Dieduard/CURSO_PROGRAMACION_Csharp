@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqehg4DcQTrW7uEyl7MF9poZlktr6txHSYMulJpFkvnIEaOFW3WYdk73dl7nD42qPvd6CHrXiuKL2egQ3JOeog==",
+  "dgSpecHash": "Y1yn2DbhAb1DsObwKPSzLcY0TWr41HF4E+S9CnPEyVHdftmzKD+S/9BGZCrvx+4jUBZW/OkNFmKRlrI7CnHXSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\source\\repos\\2.CURSO_PROGRAMACION_Csharp\\CursoProgramacionCsharp\\2.EJERCICIOS_PDF\\2.EJERCICIOS_PDF.csproj",
+  "projectFilePath": "C:\\Users\\diego\\source\\repos\\2.CURSO_PROGRAMACION_CSHARP\\CursoProgramacionCsharp\\2.EJERCICIOS_PDF\\2.EJERCICIOS_PDF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
